@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment files and credentials
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Temp / Scratch / Submissions
+scratch/
+submission.parquet
+.ipynb_checkpoints/
